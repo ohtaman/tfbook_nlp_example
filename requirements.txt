@@ -1,0 +1,4 @@
+tensorflow_gpu==1.2.1
+mecab-python3==0.7
+lxml==3.8.0
+pandas==0.20.2
