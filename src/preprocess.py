@@ -16,7 +16,7 @@ import MeCab
 
 
 AOZORA_GIT_URL = 'https://github.com/aozorabunko/aozorabunko.git'
-AOZORA_SITE_URL = 'http://www.aozora.gr.jp/'
+AOZORA_SITE_URL = 'https://www.aozora.gr.jp/'
 INDEX_FILEPATH = 'index_pages/list_person_all_extended_utf8.zip'
 
 DEFAULT_RAW_DIR = 'data/raw/aozorabunko'
